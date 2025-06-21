@@ -1,7 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/nikhilsundriya/grillmaster)
-  ![GitHub forks](https://img.shields.io/github/forks/nikhilsundriya/girllmaster?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/nikhilsundriya/Grill-Master?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/nikhil_sundriya?style=social)](https://twitter.com/nikhil_sundriya)
 
   <br />
