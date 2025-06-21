@@ -2,7 +2,7 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/nikhilsundriya/grillmaster)
   ![GitHub forks](https://img.shields.io/github/forks/nikhilsundriya/girllmaster?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/nikhil_sundriya)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/nikhil_sundriya?style=social)](https://twitter.com/nikhil_sundriya)
 
   <br />
   <br />
@@ -11,7 +11,7 @@
 
   Grill Master is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://grill-master-nikhil.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
